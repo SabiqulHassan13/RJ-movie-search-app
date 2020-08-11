@@ -1,7 +1,7 @@
 import React from 'react';
 // import logo from './logo.svg';
 // import './App.css';
-import SearchMovie from './components/SearchMovie';
+import SearchMovie from './components/SearchMovie/SearchMovie';
 
 function App() {
   return (
